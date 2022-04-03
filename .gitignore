@@ -1,0 +1,6 @@
+/package.json
+/package-lock.json
+/node_modules
+/.mocharc.json
+/mochawesome-report/mochawesome.html
+/mochawesome-report/mochawesome.json

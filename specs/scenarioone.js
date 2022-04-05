@@ -7,8 +7,8 @@ describe('first scenario',()=>{
     
 
 it('Name Length', ()=> { 
- //  return arr.length = 5
- // const result =name.filter(length)
+  // return arr.length() = 5
+  //const result =name.filter(( function name))
     
    // for (let i=0 ; i <= name.length; i++){  
      //   name[i].length==5 ? console.log(name[i]):'not 5 letters'

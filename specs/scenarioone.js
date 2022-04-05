@@ -4,13 +4,15 @@ import {assert,expect} from 'chai'
 describe('first scenario',()=>{
     let name = ["Jackson", "Rob", "Jack", "Wilson", "John"]
 
-    let result = []
+    
 
-it('Name Length', ()=>{ 
+it('Name Length', ()=> { 
+ //  return arr.length = 5
+ // const result =name.filter(length)
     
    // for (let i=0 ; i <= name.length; i++){  
      //   name[i].length==5 ? console.log(name[i]):'not 5 letters'
-  // }
+  // 
 
 })
 
